@@ -1,0 +1,6 @@
+{
+  "name": "MacroLedger",
+  "description": "Daily calorie, protein, carbohydrate, and healthy fat calculator with visual macro breakdown charts and scaled meal plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
